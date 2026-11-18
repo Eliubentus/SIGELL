@@ -22,20 +22,20 @@ Plataforma corporativa para la administración integral de expedientes judiciale
 ## Guía de Instalación (Setup)
 
 1. Clonar el repositorio:
-   \`\`\`bash
+   ```bash
    git clone https://github.com/Eliubentus/SIGELL.git
-   cd proyecto-22-litigios-masivos
-   \`\`\`
+   cd SIGELL
+   ```
 2. Instalar dependencias:
-   \`\`\`bash
+   ```bash
    npm install
-   \`\`\`
+   ```
 3. Configurar variables de entorno:
    Duplicar el archivo `.env.example` como `.env.local` y completar las credenciales de Supabase, API de IA y Webhooks de n8n.
 4. Ejecutar en entorno local:
-   \`\`\`bash
+   ```bash
    npm run dev
-   \`\`\`
+   ```
 
 ## Criterios Ágiles del Equipo (DoR y DoD)
 
