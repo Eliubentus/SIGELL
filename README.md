@@ -1,5 +1,5 @@
 # SIGELL
-Sistema de Gestión Legal de Litigios
+### Sistema de Gestión Legal de Litigios
 
 # Sistema de Gestión de Litigios Masivos, Provisión Contable de Contingencias y Procuración Judicial (Proyecto #22)
 
