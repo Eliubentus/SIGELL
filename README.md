@@ -23,7 +23,7 @@ Plataforma corporativa para la administración integral de expedientes judiciale
 
 1. Clonar el repositorio:
    \`\`\`bash
-   git clone https://github.com/TU-USUARIO/proyecto-22-litigios-masivos.git
+   git clone https://github.com/Eliubentus/SIGELL.git
    cd proyecto-22-litigios-masivos
    \`\`\`
 2. Instalar dependencias:
