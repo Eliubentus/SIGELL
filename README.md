@@ -1,6 +1,4 @@
-# SIGELL
-### Sistema de Gestión Legal de Litigios
-
+# SIGELL - Sistema de Gestión Legal de Litigios
 # Sistema de Gestión de Litigios Masivos, Provisión Contable de Contingencias y Procuración Judicial (Proyecto #22)
 
 Plataforma corporativa para la administración integral de expedientes judiciales masivos, cálculo automatizado de plazos fatales multijurisdiccionales, valoración de provisiones contables bajo norma NIC 37 / IFRS y gestión de acuerdos transaccionales.
